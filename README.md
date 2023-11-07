@@ -19,7 +19,11 @@ The Email Module subscribes to the order_confirmed topic within the Kafka cluste
 
 #### 4. Analytic Module
 The Analytic Module is responsible for processing and analyzing the data from the order_details topic. It provides insights and analytics on the orders received and processed within the system.
-Getting Started
+
+![image](https://github.com/EdagPSIT/kafka-pizza-shop/assets/134361096/3938cce3-f053-418c-afc0-67c7592dda63)
+
+
+**Getting Started**
 
 To get started with this Kafka Food Order System, follow the instructions below:
 - Install Kafka on your system and set up a Kafka cluster.
