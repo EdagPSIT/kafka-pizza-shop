@@ -22,7 +22,7 @@ The Analytic Module is responsible for processing and analyzing the data from th
 Getting Started
 
 To get started with this Kafka Food Order System, follow the instructions below:
-    - Install Kafka on your system and set up a Kafka cluster.
+- Install Kafka on your system and set up a Kafka cluster.
     - Set up the required dependencies for each module. Ensure that the necessary Python packages and libraries are installed.
     - Run the modules in the following order: Food Order App, Transactional Module, Email Module, and Analytic Module.
 
