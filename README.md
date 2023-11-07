@@ -1,7 +1,8 @@
 # Kafka Food Order System
 
 ### WorkFlow 
-![Untitled Diagram drawio](https://github.com/EdagPSIT/kafka-pizza-shop/assets/134361096/fa2f6295-b5f8-46ca-8da5-17cc97f98064)
+![Untitled Diagram drawio](https://github.com/EdagPSIT/kafka-pizza-shop/assets/134361096/bf7d3ee4-134a-4042-a183-7dd945827397)
+
 
 
 This project consists of four main modules: Food Order App, Transactional Module, Email Module, and Analytic Module, all integrated with a Kafka cluster. The system is designed to simulate a pizza ordering application.
