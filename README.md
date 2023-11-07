@@ -23,21 +23,11 @@ Getting Started
 
 To get started with this Kafka Food Order System, follow the instructions below:
 - Install Kafka on your system and set up a Kafka cluster.
-    - Set up the required dependencies for each module. Ensure that the necessary Python packages and libraries are installed.
-    - Run the modules in the following order: Food Order App, Transactional Module, Email Module, and Analytic Module.
+- Set up the required dependencies for each module. Ensure that the necessary Python packages and libraries are installed.
+- Run the modules in the following order: Food Order App, Transactional Module, Email Module, and Analytic Module.
 
 Dependencies
 
-    Kafka
-    Python
-    Faker library
-
-Usage
-
-The modules are designed to work together seamlessly within the Kafka ecosystem. Each module plays a vital role in the food ordering process, from order generation to confirmation and analytics.
-Contributing
-
-Contributions to the project are welcome. If you find any issues or have suggestions for improvement, please feel free to create a pull request or open an issue in the repository.
-License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
+- Kafka
+- Python
+- Faker library
